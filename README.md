@@ -1,7 +1,9 @@
 ## 💫 About Me
-Hello everyone, I am Abdullah Aydoğan. I am 25 years old, I live in Istanbul. I graduated from Marmara University Computer Programming and Anadolu University Management Information Systems departments.
+Hello, I am Abdullah AYDOĞAN. I graduated from Marmara University - Computer Programming and Anadolu University - Management Information Systems departments. Currently, I am ready to take a step in my career and I am a motivated individual to gain experience in mobile application development.
 
-I have been interested in computers and electronic devices since I was little. I am improving myself in the areas of front-end coding of websites and mobile application development. I am progressing in the field of mobile application development by making applications for the Android operating system.
+When I was a computer programming student, I made a mobile wallpaper application as my graduation project. I improved my coding skills with this application.
+
+I follow the innovations in the industry and am willing to constantly learn and improve myself. I work diligently and determinedly to gain expertise in areas such as mobile application development and front-end development.
 
 
 ## 🌐 Socials
