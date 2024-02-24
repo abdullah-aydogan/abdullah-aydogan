@@ -1,9 +1,9 @@
 ## 💫 About Me
-Hello, I am Abdullah AYDOĞAN. I graduated from Marmara University - Computer Programming and Anadolu University - Management Information Systems departments. Currently, I am ready to take a step in my career and I am a motivated individual to gain experience in mobile application development.
+Hello, I am Abdullah AYDOĞAN. I graduated from Marmara University - Computer Programming and Anadolu University - Management Information Systems departments.
 
 When I was a computer programming student, I made a mobile wallpaper application as my graduation project. I improved my coding skills with this application.
 
-I follow the innovations in the industry and am willing to constantly learn and improve myself. I work diligently and determinedly to gain expertise in areas such as mobile application development and front-end development.
+I follow the innovations in the industry and am willing to constantly learn and improve myself.
 
 
 ## 🌐 Socials
